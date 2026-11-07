@@ -1,0 +1,61 @@
+period,vertical,ttv_m,merchants_end,basis,source,is_core
+H1FY23,Hospitality,9286,17072,reported,H1FY24P p31 (OCR),True
+H1FY23,Retail,5508,10783,reported,H1FY24P p31 (OCR),True
+H1FY23,Health,2527,14306,reported,H1FY24P p31 (OCR),True
+H1FY23,Service/Other,1589,8006,reported,H1FY24P p31 (OCR),True
+H1FY23,Bendigo,2783,16717,reported,H1FY24P p31 (OCR),False
+H1FY24,Hospitality,9455,16333,reported,H1FY25P p32,True
+H1FY24,Retail,5393,10850,reported,H1FY25P p32,True
+H1FY24,Health,3139,18716,reported,H1FY25P p32,True
+H1FY24,Service/Other,1704,8917,reported,H1FY25P p32,True
+H1FY24,Bendigo,2483,13964,reported,H1FY25P p32,False
+H1FY25,Hospitality,9058,15955,reported,H1FY25P p32,True
+H1FY25,Retail,5314,10586,reported,H1FY25P p32,True
+H1FY25,Health,3648,25277,reported,H1FY25P p32,True
+H1FY25,Service/Other,1733,9206,reported,H1FY25P p32,True
+H1FY25,Bendigo,2218,12535,reported,H1FY25P p32,False
+H1FY26,Hospitality,9509,15437,reported,H1FY26P p26,True
+H1FY26,Retail,5558,12620,reported,H1FY26P p26,True
+H1FY26,Health,3990,23182,reported,H1FY26P p26,True
+H1FY26,Service/Other,1804,13877,reported,H1FY26P p26,True
+H1FY26,Bendigo,1996,11549,reported,H1FY26P p26,False
+FY23,Hospitality,18347,17425,reported,FY24P p38,True
+FY23,Retail,10360,10874,reported,FY24P p38,True
+FY23,Health,5361,16165,reported,FY24P p38,True
+FY23,Service/Other,3169,8525,reported,FY24P p38,True
+FY23,Bendigo,5364,15676,reported,FY24P p38,False
+FY24,Hospitality,18049,16114,reported,FY25P p39,True
+FY24,Retail,10301,10639,reported,FY25P p39,True
+FY24,Health,6464,22069,reported,FY25P p39,True
+FY24,Service/Other,3311,8944,reported,FY25P p39,True
+FY24,Bendigo,4808,13581,reported,FY25P p39,False
+FY25,Hospitality,17675,16111,reported,FY26P p31,True
+FY25,Retail,10282,10479,reported,FY26P p31,True
+FY25,Health,7433,28046,reported,FY26P p31,True
+FY25,Service/Other,3380,9365,reported,FY26P p31,True
+FY25,Bendigo,4243,12194,reported,FY26P p31,False
+FY26,Hospitality,18341,15235,reported,FY26P p31,True
+FY26,Retail,10684,10437,reported,FY26P p31,True
+FY26,Health,7910,31666,reported,FY26P p31,True
+FY26,Service/Other,3521,9332,reported,FY26P p31,True
+FY26,Bendigo,3796,11195,reported,FY26P p31,False
+H2FY23,Hospitality,9061,17425,"TTV is full year minus H1, merchants are the 30 June count",FY23 and H1FY23 tables,True
+H2FY23,Retail,4852,10874,"TTV is full year minus H1, merchants are the 30 June count",FY23 and H1FY23 tables,True
+H2FY23,Health,2834,16165,"TTV is full year minus H1, merchants are the 30 June count",FY23 and H1FY23 tables,True
+H2FY23,Service/Other,1580,8525,"TTV is full year minus H1, merchants are the 30 June count",FY23 and H1FY23 tables,True
+H2FY23,Bendigo,2581,15676,"TTV is full year minus H1, merchants are the 30 June count",FY23 and H1FY23 tables,False
+H2FY24,Hospitality,8594,16114,"TTV is full year minus H1, merchants are the 30 June count",FY24 and H1FY24 tables,True
+H2FY24,Retail,4908,10639,"TTV is full year minus H1, merchants are the 30 June count",FY24 and H1FY24 tables,True
+H2FY24,Health,3325,22069,"TTV is full year minus H1, merchants are the 30 June count",FY24 and H1FY24 tables,True
+H2FY24,Service/Other,1607,8944,"TTV is full year minus H1, merchants are the 30 June count",FY24 and H1FY24 tables,True
+H2FY24,Bendigo,2325,13581,"TTV is full year minus H1, merchants are the 30 June count",FY24 and H1FY24 tables,False
+H2FY25,Hospitality,8617,16111,"TTV is full year minus H1, merchants are the 30 June count",FY25 and H1FY25 tables,True
+H2FY25,Retail,4968,10479,"TTV is full year minus H1, merchants are the 30 June count",FY25 and H1FY25 tables,True
+H2FY25,Health,3785,28046,"TTV is full year minus H1, merchants are the 30 June count",FY25 and H1FY25 tables,True
+H2FY25,Service/Other,1647,9365,"TTV is full year minus H1, merchants are the 30 June count",FY25 and H1FY25 tables,True
+H2FY25,Bendigo,2025,12194,"TTV is full year minus H1, merchants are the 30 June count",FY25 and H1FY25 tables,False
+H2FY26,Hospitality,8832,15235,"TTV is full year minus H1, merchants are the 30 June count",FY26 and H1FY26 tables,True
+H2FY26,Retail,5126,10437,"TTV is full year minus H1, merchants are the 30 June count",FY26 and H1FY26 tables,True
+H2FY26,Health,3920,31666,"TTV is full year minus H1, merchants are the 30 June count",FY26 and H1FY26 tables,True
+H2FY26,Service/Other,1717,9332,"TTV is full year minus H1, merchants are the 30 June count",FY26 and H1FY26 tables,True
+H2FY26,Bendigo,1800,11195,"TTV is full year minus H1, merchants are the 30 June count",FY26 and H1FY26 tables,False

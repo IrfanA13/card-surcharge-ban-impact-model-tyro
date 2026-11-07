@@ -1,0 +1,14 @@
+fy,scenario,type,ttv_m,payments_gp_m,total_gp_m,payments_margin_bps,guidance_low_m,guidance_high_m
+FY23,Actual,Actual,42601.3,177.4,193.2,41.64,,
+FY24,Actual,Actual,42932.7,186.7,210.8,43.49,,
+FY25,Actual,Actual,43012.0,195.0,220.1,45.34,,
+FY26,Actual,Actual,44253.3,203.0,231.8,45.87,,
+FY27,Base,Forecast,45288.36,207.78,239.56,45.88,240.0,255.0
+FY27,Bear,Forecast,44201.04,196.24,226.69,44.4,240.0,255.0
+FY27,Bull,Forecast,46547.68,221.5,255.05,47.59,240.0,255.0
+FY28,Base,Forecast,46412.23,212.9,248.18,45.87,,
+FY28,Bear,Forecast,44208.79,189.53,221.79,42.87,,
+FY28,Bull,Forecast,48912.64,238.86,278.21,48.83,,
+FY29,Base,Forecast,47621.58,220.84,260.24,46.37,,
+FY29,Bear,Forecast,44268.73,189.79,224.05,42.87,,
+FY29,Bull,Forecast,51395.34,256.12,302.59,49.83,,

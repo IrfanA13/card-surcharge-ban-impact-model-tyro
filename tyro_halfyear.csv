@@ -1,0 +1,9 @@
+period,fy,half,start_date,end_date,ttv_m,payments_gp_m,banking_gp_m,corporate_other_gp_m,total_gp_m,reported_margin_bps,calc_margin_bps,net_maf_bps,basis,source
+H1FY23,FY23,H1,2022-07-01,2022-12-31,21693.0,88.2,4.6,2.4,95.2,40.7,40.7,32.7,TTV is the sum of the verticals,"H1FY24P p17 (read with OCR) and p31, margins from H1FY25P p17"
+H2FY23,FY23,H2,2023-01-01,2023-06-30,20908.3,89.2,5.1,3.7,98.0,42.7,42.7,33.8,full year minus H1,"FY23 yearly numbers minus H1FY23, Tyro H2 margins from FY25P p24 and H1FY25P p17"
+H1FY24,FY24,H1,2023-07-01,2023-12-31,22173.5,92.7,7.1,5.4,105.2,41.8,41.8,33.7,reported,"H1FY24P p17 (OCR), H1FY25P p28, margins FY25P p24"
+H2FY24,FY24,H2,2024-01-01,2024-06-30,20759.2,94.0,5.5,6.1,105.6,45.3,45.3,37.1,full year minus H1,"FY24 yearly numbers minus H1FY24, Tyro H2 margins from FY25P p24 and H1FY25P p17"
+H1FY25,FY25,H1,2024-07-01,2024-12-31,21971.4,98.2,7.8,6.0,112.0,44.7,44.7,37.6,payments GP worked out as 104.1 / 1.060 (H1FY26P p9 says it grew 6%),"H1FY25P p6 p18 p28, FY25P p24"
+H2FY25,FY25,H2,2025-01-01,2025-06-30,21040.6,96.8,5.6,5.7,108.1,46.0,46.0,38.9,full year minus H1,"FY25 yearly numbers minus H1FY25, Tyro H2 margins from FY25P p24 and H1FY25P p17"
+H1FY26,FY26,H1,2025-07-01,2025-12-31,22856.6,104.1,8.2,5.3,117.6,45.5,45.5,,banking GP worked out as 7.8 x 1.054 (H1FY26P p11 says it grew 5.4%),H1FY26P p9 p11 p22
+H2FY26,FY26,H2,2026-01-01,2026-06-30,21396.7,98.9,8.3,7.0,114.2,,46.2,,full year minus H1,"FY26 yearly numbers minus H1FY26, Tyro H2 margins from FY25P p24 and H1FY25P p17"
