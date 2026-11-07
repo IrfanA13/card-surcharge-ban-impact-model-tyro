@@ -20,8 +20,6 @@ Tyro charges merchants about 97 bps. The RBA market average is about 62 bps. Now
 
 ### Why this project
 
-Before picking a project I scraped around 250 finance and analytics job ads in Sydney from LinkedIn to see what employers actually want. FP&A, pricing and commercial roles were the biggest group, and payments and fraud roles kept coming up too. Excel, SQL and Power BI were the most asked for tools. My background is finance, marketing and pricing analytics, so a pricing and forecasting project on a payments company made the most sense for me.
-
 I picked Tyro because it's a listed Australian payments company with public numbers, its business is mostly one thing (card payments) so it's easy to model, and the RBA reform had just happened. Tyro also made a claim I could test, that the reform is neutral for its gross profit. Most portfolio projects analyse the past. I liked that this one makes a forecast I can check when the real results come out.
 
 ### Breaking the business down
